@@ -33,7 +33,7 @@ Download Git if you do not already have it:
 Mac: open Terminal \
 Windows: open Git Bash
 
-## 5. Clone Your Fork
+## 5. Clone Your Fork (Basically copy the project to your local machine)
 
 Run this command, replacing `<your-username>` with your GitHub username:
 
