@@ -16,6 +16,9 @@ dist-ssr
 .env
 .env.local
 
+# Claude Code settings (local only)
+.claude/
+
 # WebSpatial builder
 .webspatial-builder-temp
 *.app
